@@ -8,7 +8,7 @@
 -->
 
 # Hello GitHub Actions
-
+[![GitHub Actions Demo](https://github.com/codeeztech/skills-hello-github-actions/actions/workflows/github-actions-demo.yml/badge.svg)](https://github.com/codeeztech/skills-hello-github-actions/actions/workflows/github-actions-demo.yml)
 _Create a GitHub Action and use it in a workflow._
 
 </header>
